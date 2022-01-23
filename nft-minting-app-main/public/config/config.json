@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x12e015343e9b2be864ecf6cc3d781caf034dc23d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xd96be43fe22d58fead88a11b8eef8c70ab2811b29bfba659ff3d199e020dafbb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Bearz",
+  "SYMBOL": "Baby Bear",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/baby-bearz",
+  "SHOW_BACKGROUND": true
+}
